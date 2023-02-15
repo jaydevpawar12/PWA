@@ -1,36 +1,21 @@
-write github file for tic tac toe game build with html,css and javascript
+I'am a fullstack web devloper ,create profile for me
 
-# Tic-Tac-Toe
 
-This is a Tic-Tac-Toe game built with HTML, CSS and JavaScript. This game can be played by 2 players in a web browser.
 
-## Getting Started
+Full Name: 
+John Smith
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Job Title: 
+Full Stack Web Developer
 
-### Prerequisites
+Skills: 
+HTML, CSS, JavaScript, PHP, MySQL, React, Redux, Node.js, Express.js, Git
 
-You will need a web browser to play the game.
+Experience: 
+I have 5 years of experience in web development, specializing in building full-stack web applications. I have worked with a variety of frameworks, libraries, and tools to create dynamic, interactive, and responsive web experiences. I am also knowledgeable in database design and development, and have significant experience with version control systems.
 
-### Installing
+Education: 
+I have a Bachelor's Degree in Computer Science from XYZ University.
 
-1. Clone or download the repository from Github.
-2. Open the index.html file in your web browser.
-
-## Playing the Game
-
-1. The game will start with an empty 3x3 board.
-2. Player 1 will be assigned the X token and Player 2 will be assigned the O token.
-3. Players take turns placing their token on the board.
-4. The first player to get three of their tokens in a row (horizontal, vertical, or diagonal) wins the game.
-5. If all nine squares are filled and no players have three in a row, the game is a draw.
-
-## Built With
-
-* HTML
-* CSS
-* JavaScript
-
-## Authors
-
-* **[
+Personal Interests: 
+In my spare time I enjoy cycling, reading, and playing video games.
